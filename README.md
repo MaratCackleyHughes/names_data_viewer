@@ -1,1 +1,1 @@
-This is an OOP PHP program for displaying census data of popular names given to children born in a given year.
+This is an OOP program written in PHP for displaying census data about names and their popularity from year to year. It uses a MySQL database (not included here) of census baby names. You can toggle between a bar graph displaying the popularity of a given name by years, or, a graph of the number of names given to babies in a particular year. 
